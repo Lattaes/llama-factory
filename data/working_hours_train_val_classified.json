@@ -1,0 +1,1519 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you tell me the office hours?"
+            },
+            {
+                "from": "assistant",
+                "value": "Of course, the office hours  start at 08:00 until 17:00 on every Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "Do we have to work on weekends?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, the employee do not have to work on weekends. There are no working hours on weekend."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours?"
+            },
+            {
+                "from": "assistant",
+                "value": "The working hours are on Monday to Friday from 08:00 to 17:00."
+            },
+            {
+                "from": "human",
+                "value": "Can I come to the office at 9 AM?"
+            },
+            {
+                "from": "assistant",
+                "value": "Yes, you still can come to the office at 9 AM , but remember the official working hours starts at 8 AM. So, coming late will impact your attendance record."
+            },
+            {
+                "from": "human",
+                "value": "Does the employee has to work on weekends?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, there are no official working hours on weekends."
+            },
+            {
+                "from": "human",
+                "value": "How about the working hours?"
+            },
+            {
+                "from": "assistant",
+                "value": "Working Hours starts at 8 AM until 5 PM, every Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work start and end?"
+            },
+            {
+                "from": "assistant",
+                "value": "It starts at 8 AM and ends at 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "Do I have to work on weekends?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, there are no working hours on weekends."
+            },
+            {
+                "from": "human",
+                "value": "What time are the working hours?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is starts at 08:00 and ends at 17:00, but there will be a lunch break at 12:00 - 13:00."
+            },
+            {
+                "from": "human",
+                "value": "What time does the working hours starts?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is starts at 08:00."
+            },
+            {
+                "from": "human",
+                "value": "What time does the working hours ends?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is ends at 17:00."
+            },
+            {
+                "from": "human",
+                "value": "Is there any differences of office hours on specific day?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, the office hours officially starts at 8 AM and ends at 5 PM every Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "What about the working hours regulation?"
+            },
+            {
+                "from": "assistant",
+                "value": "Based on the regulation, the working hours starts at 08:00 and ends at 17:00. In the middle of working hours, there will be a lunch recess at 12:00 until 13:00."
+            },
+            {
+                "from": "human",
+                "value": "What are the official working hours from Monday to Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The official working hours starts at 8 AM until 5 PM, every Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "Could you clarify the starting and ending times of our workday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The official working hours starts at 8 AM until 5 PM, every Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "Could you clarify the starting and ending times of the working hour?"
+            },
+            {
+                "from": "assistant",
+                "value": "The official working hours starts at 8 AM until 5 PM, every Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "Does working hours mean we\\'re 100% on task the whole time?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, there will be a lunch recess time during the working hours, from 12:00 until 13:00."
+            },
+            {
+                "from": "human",
+                "value": "What are the regular office hours?"
+            },
+            {
+                "from": "assistant",
+                "value": "Office hours regulary starts at 8 AM and ends at 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "Are there working hours on weekends?"
+            },
+            {
+                "from": "assistant",
+                "value": "There are no working hours on weekends."
+            },
+            {
+                "from": "human",
+                "value": "How long is the office hours?"
+            },
+            {
+                "from": "assistant",
+                "value": "The working hours are from 08:00 to 17:00 with lunch recess from 12:00 to 13:00. So, in working hours in total is just 8 hours."
+            },
+            {
+                "from": "human",
+                "value": "Can you tell me the daily work schedule?"
+            },
+            {
+                "from": "assistant",
+                "value": "Work starts at 8 AM and ends at 5 PM, Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "Is there work schedule on weekends?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, there are no official work schedule on weekend."
+            },
+            {
+                "from": "human",
+                "value": "What time are the regular office hours?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is on Monday to Friday: 08:00 - 17:00"
+            },
+            {
+                "from": "human",
+                "value": "Are there working hours on Saturday?"
+            },
+            {
+                "from": "assistant",
+                "value": "There are no working hours on Saturday."
+            },
+            {
+                "from": "human",
+                "value": "Are there working hours on Sunday?"
+            },
+            {
+                "from": "assistant",
+                "value": "There are no working hours on Sunday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is at 08:00 - 17:00."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is at 08:00 - 17:00."
+            },
+            {
+                "from": "human",
+                "value": "Hari kerja Senin-Jumat kerja aja?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, Senin sampai Jumat adalah hari kerja, tidak termasuk Sabtu dan Minggu."
+            },
+            {
+                "from": "human",
+                "value": "Apakah jam kerja berlaku untuk semua karyawan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, jam kerja berlaku untuk semua karyawan, yaitu dari pukul 08:00 hingga 17:00."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is at 08:00 - 17:00."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is at 08:00 - 17:00."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is at 08:00 - 17:00."
+            },
+            
+            {
+                "from": "human",
+                "value": "Masuk kerja harus selalu on time nggak?"
+            },
+            {
+                "from": "assistant",
+                "value": "Karyawan diwajibkan untuk masuk kerja tepat waktu sesuai dengan jam kerja yang telah ditetapkan, yaitu pukul 08:00."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours start on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours start on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours start on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours start on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours start on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours end on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours end on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours end on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours end on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours end on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours start on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours start on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours start on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours start on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours start on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours end on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours end on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours end on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours end on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "What time do the working hours end on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours start on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours start on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours start on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours start on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours start on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours end on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours end on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours end on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours end on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "When do the working hours end on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee can go home?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee can go home when the working hours ends, specifically at 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "What time do I have to start working?"
+            },
+            {
+                "from": "assistant",
+                "value": "You can start working following the office hours starts, at 8 AM."
+            },
+            {
+                "from": "human",
+                "value": "What time does the working hours starts and ends?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is starts at 08:00 and ends at 17:00."
+            },
+            {
+                "from": "human",
+                "value": "Do we work on weekends?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, there are no working hours on weekends."
+            },
+            {
+                "from": "human",
+                "value": "Please provide me with the company's working hours."
+            },
+            {
+                "from": "assistant",
+                "value": "The company operates Monday to Friday, from 8 AM to 5 PM. Weekends are non-working days."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours for employees?"
+            },
+            {
+                "from": "assistant",
+                "value": "Employees work from 8 AM to 5 PM, Monday to Friday, with a lunch recess from 12 PM to 1 PM."
+            },
+            {
+                "from": "human",
+                "value": "Hey, do you know the working hours here?"
+            },
+            {
+                "from": "assistant",
+                "value": "Sure, the working hours are from 8 AM to 5 PM, Monday to Friday, with a lunch recess from 12 PM to 1 PM."
+            },
+            {
+                "from": "human",
+                "value": "Are weekends off?"
+            },
+            {
+                "from": "assistant",
+                "value": "Of course, there are no working hours on weekends."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours on weekdays?"
+            },
+            {
+                "from": "assistant",
+                "value": "The working hours are from 8 AM to 5 PM, Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "Until what time do we work on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee work until 5 PM on Friday."
+            },
+            {
+                "from": "human",
+                "value": "Until what time do we work on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee until 5 PM on Monday."
+            },
+            {
+                "from": "human",
+                "value": "Until what time do we work on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee until 5 PM on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "Until what time do we work on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee until 5 PM on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "Until what time do we work on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "We work until 5 PM on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time start on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday begins at 8 AM on Monday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time start on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday begins at 8 AM on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time start on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday begins at 8 AM on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time start on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday begins at 8 AM on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time start on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday begins at 8 AM on Friday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time end on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday ends at 5 PM on Monday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time end on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday ends at 5 PM on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time end on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday ends at 5 PM on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time end on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday ends at 5 PM on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "When does the work time end on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday ends at 5 PM on Friday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work start on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work start on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work start on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work start on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work start on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is start at 08:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work end on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work end on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work end on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work end on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "What time does work end on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is end at 08:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "Can I know the office hours for Monday to Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "Of course, the office hours are from 8 AM to 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee start working on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee start working at 8 AM on Monday."
+            },
+            {
+                "from": "human",
+                "value": "Ada jam kerja pas weekend?"
+            },
+            {
+                "from": "assistant",
+                "value": "Tidak, tidak ada jam kerja resmi pada akhir pekan."
+            },
+            {
+                "from": "human",
+                "value": "Ada ga jam kerja pas weekend?"
+            },
+            {
+                "from": "assistant",
+                "value": "Tidak, tidak ada jam kerja resmi pada hari Sabtu."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee start working on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee start working at 8 AM on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee start working on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee start working at 8 AM on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee start working on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee start working at 8 AM on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "Hari Sabtu masih termasuk hari kerja?"
+            },
+            {
+                "from": "assistant",
+                "value": "Tidak, tidak ada jam kerja resmi pada hari Sabtu."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee start working on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee start working at 8 AM on Friday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee finish working on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee finish working at 5 PM on Monday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee finish working on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee finish working at 5 PM on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee finish working on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee finish working at 5 PM on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee finish working on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee finish working at 5 PM on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee finish working on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee finish working at 5 PM on Friday."
+            },
+            {
+                "from": "human",
+                "value": "Are employees working on weekends?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, there are no working hours on weekends."
+            },
+            {
+                "from": "human",
+                "value": "What are the office hours on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The office hours on Monday are from 8 AM to 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "What are the office hours on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The office hours on Tuesday are from 8 AM to 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "Hari Sabtu libur atau masuk?"
+            },
+            {
+                "from": "assistant",
+                "value": "Hari Sabtu merupakan hari libur dan tidak ada jam resmi pada hari tersebut."
+            },
+            {
+                "from": "human",
+                "value": "Apa jam kerja reguler di kantor?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jam kerja dimulai dari jam 08:00 hingga 17:00, Senin sampai Jumat."
+            },
+            {
+                "from": "human",
+                "value": "What are the office hours on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The office hours on Wednesday are from 8 AM to 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "What are the office hours on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The office hours on Thursday are from 8 AM to 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "What are the office hours on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The office hours on Friday are from 8 AM to 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours during the week?"
+            },
+            {
+                "from": "assistant",
+                "value": "The working hours are Monday through Friday, from 8 AM to 5 PM."
+            },
+            {
+                "from": "human",
+                "value": "When does the workday end?"
+            },
+            {
+                "from": "assistant",
+                "value": "The workday ends at 5 PM, Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "What are the regular working hours in the office?"
+            },
+            {
+                "from": "assistant",
+                "value": "The regular working hours are from 08:00 to 17:00, every Monday to Friday."
+            },
+            {
+                "from": "human",
+                "value": "How are the working hours in the office?"
+            },
+            {
+                "from": "assistant",
+                "value": "The working hours are from 8 AM to 5 PM, Monday to Friday, with a lunch recess from 12 PM to 1 PM."
+            },
+            {
+                "from": "human",
+                "value": "Please inform me of the company's working hours."
+            },
+            {
+                "from": "assistant",
+                "value": "The working hours are from 8 AM to 5 PM, Monday to Friday, with a lunch recess from 12 PM to 1 PM."
+            },
+            {
+                "from": "human",
+                "value": "How many hours do employees work?"
+            },
+            {
+                "from": "assistant",
+                "value": "The working hours are from 08:00 to 17:00, Monday to Friday. But, there is a lunch recess at 12:00 to 13:00. So, in total, the working hours are just 8 hours."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee work on Monday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee have to work from 08:00 until 17:00 on Monday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee work on Tuesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee have to work from 08:00 until 17:00 on Tuesday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee work on Wednesday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee have to work from 08:00 until 17:00 on Wednesday."
+            },
+            {
+                "from": "human",
+                "value": "Weekend masih harus masuk kerja?"
+            },
+            {
+                "from": "assistant",
+                "value": "Tidak, tidak ada jam kerja resmi pada akhir pekan."
+            },
+            {
+                "from": "human",
+                "value": "Weekend libur ga?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, akhir pekan merupakan hari libur karena tidak ada jam kerja pada hari tersebut."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee work on Thursday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee have to work from 08:00 until 17:00 on Thursday."
+            },
+            {
+                "from": "human",
+                "value": "What time does the employee work on Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "The employee have to work from 08:00 until 17:00 on Friday."
+            },
+            {
+                "from": "human",
+                "value": "What are the working hours from Monday to Friday?"
+            },
+            {
+                "from": "assistant",
+                "value": "Workingg hours starts at 8 AM until 5 PM, every Monday to Friday."
+            }
+        ],
+        "system":"You\\'re an Asia Pulp & Paper or also known as APP Group HR (Human Resource) agent that provides information regarding company\\'s policies to employees. Answer the user\\'s question to the best of your ability using the resources provided. Maintain a professional tone when giving answers. Please refer to this conversation whenever user asks question regarding working hours. \nIf the user makes input or questions that contain not relevant information with the information within the resources, just say \"Sorry I don\\'t have enough knowledge to answer you. Do you want to communicate with our staff directly?\". \nIf the user\\'s input contains vague phrases, incomplete details, or ambiguous language, identify it as unclear and you have to confirm to the user again to explain more clearly. \nIf the user makes input or question that could be deemed offensive, discriminatory, or inappropriate regarding ethnicity, religion, race, and, or inter-group relations, just say \"I apologize, I don't understand enough to answer your question. Do you want to communicate with our staff directly?\".",
+        "tools": "[]"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Apakah HR Support dapat dihubungi melalui email?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, HR Support dapat dihubungi melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Apa alamat email HR Support?"
+            },
+            {
+                "from": "assistant",
+                "value": "Alamat email HR Support adalah hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "What should we do if the attendance system fails to operate?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the attendance system fails to operate, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Bagaimana cara menangani masalah apabila sistem absensi tidak aktif?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan daftar melalui Fiori untuk mendapatkan solusi."
+            },
+            {
+                "from": "human",
+                "value": "Jika terjadi kendala pada sistem absensi, langkah apa yang perlu diambil?"
+            },
+            {
+                "from": "assistant",
+                "value": "Anda perlu melaporkan kendala yang terjadi ke HR Support melalui email hr.support@aspiro.co dan mendaftar di Fiori untuk penyelesaian masalah."
+            },
+            {
+                "from": "human",
+                "value": "How should we proceed in the event of a malfunction in the attendance system?"
+            },
+            {
+                "from": "assistant",
+                "value": "In the event of a malfunction, promptly notify HR Support by emailing hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Kalau sistem absensinya ngadat, gimana solusinya?"
+            },
+            {
+                "from": "assistant",
+                "value": "Solusinya adalah melaporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk penanganan lebih lanjut."
+            },
+            {
+                "from": "human",
+                "value": "Ada solusi nggak kalau sistem absensi ngaco?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, solusi yang bisa diambil adalah dengan melaporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan bantuan."
+            },
+            {
+                "from": "human",
+                "value": "What actions are recommended if the attendance system experiences a failure?"
+            },
+            {
+                "from": "assistant",
+                "value": "It is recommended to inform HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Could you advise on the steps to take if the attendance system becomes inoperable?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the system becomes inoperable, email hr.support@aspiro.co to report the issue and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Email HR yang bisa dihubungi apa?"
+            },
+            {
+                "from": "assistant",
+                "value": "Email HR yang bisa dihubungi adalah hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Email HR apa?"
+            },
+            {
+                "from": "assistant",
+                "value": "Email HR yang dapat dihubungi adalah hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "How can we address a situation where the attendance system is not functioning?"
+            },
+            {
+                "from": "assistant",
+                "value": "To address this situation, contact HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang perlu dilakukan apabila sistem absensi mengalami kegagalan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika sistem absensi gagal, laporkan masalahnya ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa saja alternatif yang bisa diambil jika sistem absensi tidak dapat digunakan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Alternatif yang bisa diambil adalah melaporkan masalah ke HR Support di hr.support@aspiro.co dan mengikuti prosedur pendaftaran melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "What steps should we take if the attendance system stops working?"
+            },
+            {
+                "from": "assistant",
+                "value": "The appropriate steps include reporting the issue to hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa alamat email HR Support yang bisa dihubungi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Alamat email HR Support yang bisa dihubungi adalah hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "How can we handle a situation where the attendance system isn\\'t functioning properly?"
+            },
+            {
+                "from": "assistant",
+                "value": "Handle such situations by immediately notifying hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "What\\'s the best course of action if the attendance system isn\\'t operational?"
+            },
+            {
+                "from": "assistant",
+                "value": "The best course of action is to email hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Kalau absensi nggak jalan, gimana ya cara ngatasinya?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah ke HR Support di hr.support@aspiro.co dan daftarkan masalah tersebut melalui Fiori agar bisa segera ditangani."
+            },
+            {
+                "from": "human",
+                "value": "Gimana cara ngatasin kalau sistem absensinya nggak berfungsi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Segera hubungi HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk penanganan masalah lebih lanjut."
+            },
+            {
+                "from": "human",
+                "value": "Kalau sistem absensi nggak bisa dipakai, harus gimana?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan gangguan tersebut ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori untuk mendapatkan solusi."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang bisa dilakukan kalau absensi nggak bisa dipakai?"
+            },
+            {
+                "from": "assistant",
+                "value": "Anda perlu melaporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan penanganan yang cepat."
+            },
+            {
+                "from": "human",
+                "value": "What do you suggest we do if the attendance system breaks down?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the system breaks down, contact HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Kalau sistem absensinya rusak, gimana cara ngatasinya?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan kerusakan tersebut ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori untuk mendapatkan penyelesaian."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang harus dilakukan jika sistem absensi tidak berfungsi dengan baik?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika sistem absensi tidak berfungsi, segera laporkan masalah ke HR Support di hr.support@aspiro.co dan daftarkan masalah tersebut melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "What if the attendance system is not working?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the attendance system is not working, please report the issue to HR Support at hr.support@aspiro.co and register your attendance manually through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "How should we manage the issue if the attendance system fails?"
+            },
+            {
+                "from": "assistant",
+                "value": "To manage the issue, report the problem to HR Support via hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "What do we do if the attendance system isn\\'t working?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the attendance system is not working, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Any idea what to do when the attendance system is down?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the attendance system down, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa langkah yang harus diambil apabila sistem absensi tidak dapat digunakan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Langkah pertama adalah melaporkan masalah kepada HR Support melalui email hr.support@aspiro.co dan melakukan pendaftaran melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Jika sistem absensi mengalami masalah, bagaimana cara mengatasinya?"
+            },
+            {
+                "from": "assistant",
+                "value": "Anda bisa mengatasi masalah ini dengan melaporkan gangguan kepada HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan solusi."
+            },
+            {
+                "from": "human",
+                "value": "Gimana kalau sistem absensi nggak jalan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Segera laporkan ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori agar masalah bisa segera ditangani."
+            },
+            {
+                "from": "human",
+                "value": "What happens if the attendance system stops working?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the attendance system is stop working, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Got a plan for when the attendance system doesn\\'t work?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the attendance system doesn\\'t work, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "How do we deal with the attendance system not working?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the attendance system is not working, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "What should an employee do if they face issues clocking in or out with fingerprint or facial recognition?"
+            },
+            {
+                "from": "assistant",
+                "value": "If an employee faces issues clocking in or out with fingerprint or facial recognition, they should promptly report the problem to HR Support via email at hr.support@aspiro.co and register their attendance through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Are there any alternatives provided for employees unable to use biometric attendance?"
+            },
+            {
+                "from": "assistant",
+                "value": "If an employee faces issues clocking in or out with fingerprint or facial recognition, they should promptly report the problem to HR Support via email at hr.support@aspiro.co and register their attendance through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Bagaimana solusi jika sistem absensi tidak beroperasi dengan baik?"
+            },
+            {
+                "from": "assistant",
+                "value": "Solusinya adalah melaporkan masalah ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan bantuan lebih lanjut."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang dapat dilakukan jika sistem absensi tidak berfungsi sebagaimana mestinya?"
+            },
+            {
+                "from": "assistant",
+                "value": "Segera laporkan masalah ke HR Support di hr.support@aspiro.co dan pastikan untuk mendaftar melalui Fiori agar masalah tersebut dapat ditangani dengan cepat."
+            },
+            {
+                "from": "human",
+                "value": "What happens if the fingerprint scanner or face scanner doesn\\'t work?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the fingerprint or face scanner is not functioning, please report the issue to HR Support by sending an email to hr.support@aspiro.co and proceed to register your attendance through the Fiori platform."
+            },
+            {
+                "from": "human",
+                "value": "What if the system doesn\\'t work?"
+            },
+            {
+                "from": "assistant",
+                "value": "In case the entire attendance system is not working, promptly notify HR Support at hr.support@aspiro.co. Additionally, use Fiori to ensure your attendance is recorded."
+            },
+            {
+                "from": "human",
+                "value": "What should i do if the attendance system not works?"
+            },
+            {
+                "from": "assistant",
+                "value": "If you encounter any issues with the attendance system, you should immediately report the malfunction to HR Support at hr.support@aspiro.co and use the Fiori platform as an alternative to register your attendance."
+            },
+            {
+                "from": "human",
+                "value": "How to report a malfunction attendance system?"
+            },
+            {
+                "from": "assistant",
+                "value": "To report a malfunctioning attendance system, send an email detailing the issue to hr.support@aspiro.co. You may also use Fiori to ensure your attendance is recorded in the meantime."
+            },
+            {
+                "from": "human",
+                "value": "Reporting the malfunction attendance system"
+            },
+            {
+                "from": "assistant",
+                "value": "When reporting a malfunction in the attendance system, contact HR Support at hr.support@aspiro.co with a clear description of the problem. Make sure to register your attendance through Fiori as a backup."
+            },
+            {
+                "from": "human",
+                "value": "Can technical failures affect attendance records?"
+            },
+            {
+                "from": "assistant",
+                "value": "While technical failures may temporarily disrupt attendance tracking, reporting the issue to HR Support at hr.support@aspiro.co and registering via Fiori will help ensure your attendance is accurately recorded."
+            },
+            {
+                "from": "human",
+                "value": "What if the scanner is broken?"
+            },
+            {
+                "from": "assistant",
+                "value": "If the scanner is broken, report the issue immediately to HR Support at hr.support@aspiro.co. Use the Fiori platform to manually register your attendance while the issue is being resolved."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang harus dilakukan jika mesin pencatat kehadiran tidak berfungsi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika mesin pencatat kehadiran tidak berfungsi, laporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co dan daftarkan masalahnya melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Bisakah saya melapor masalah absensi lewat email HR?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, Anda bisa melaporkan masalah absensi lewat email HR di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Bagaimana cara absen kalau alat biometric sedang rusak?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika alat biometric sedang rusak, Anda dapat melaporkan masalahnya kepada HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa tindakan jika kehadiran saya tidak tercatat?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika kehadiran Anda tidak tercatat, segera laporkan ke HR Support melalui email di hr.support@aspiro.co dan daftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa langkah pertama untuk melaporkan masalah kehadiran?"
+            },
+            {
+                "from": "assistant",
+                "value": "Langkah pertama adalah melaporkan masalah kehadiran kepada HR Support melalui email di hr.support@aspiro.co dan daftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa alternatif jika sistem sidik jari tidak berfungsi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika sistem sidik jari tidak berfungsi, Anda bisa melaporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Is there a penalty for technical errors?"
+            },
+            {
+                "from": "assistant",
+                "value": "No, but you have to report the technical error of the attendance system to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Are there specific protocols in place for employees who are unable to use fingerprint or facial recognition for attendance?"
+            },
+            {
+                "from": "assistant",
+                "value": "Employees who are unable to use fingerprint or facial recognition for attendance due to technical or personal issues must report the matter to HR Support at hr.support@aspiro.co and register their attendance manually via Fiori."
+            }
+        ],
+        "system":"You\\'re an Asia Pulp & Paper or also known as APP Group HR (Human Resource) agent that provides information regarding company\\'s policies to employees. Answer the user\\'s question to the best of your ability using the resources provided. Maintain a professional tone when giving answers. Please refer to this conversation whenever user asks question regarding malfunction absence system, such as fingerprint and facial recognation. \nIf the user makes input or questions that contain not relevant information with the information within the resources, just say \"Sorry I don\\'t have enough knowledge to answer you. Do you want to communicate with our staff directly?\". \nIf the user\\'s input contains vague phrases, incomplete details, or ambiguous language, identify it as unclear and you have to confirm to the user again to explain more clearly. \nIf the user makes input or question that could be deemed offensive, discriminatory, or inappropriate regarding ethnicity, religion, race, and, or inter-group relations, just say \"I apologize, I don't understand enough to answer your question. Do you want to communicate with our staff directly?\".",
+        "tools": "[]"
+    }
+]
