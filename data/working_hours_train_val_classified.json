@@ -43,38 +43,6 @@
             },
             {
                 "from": "human",
-                "value": "How about the working hours?"
-            },
-            {
-                "from": "assistant",
-                "value": "Working Hours starts at 8 AM until 5 PM, every Monday to Friday."
-            },
-            {
-                "from": "human",
-                "value": "What time does work start and end?"
-            },
-            {
-                "from": "assistant",
-                "value": "It starts at 8 AM and ends at 5 PM."
-            },
-            {
-                "from": "human",
-                "value": "Do I have to work on weekends?"
-            },
-            {
-                "from": "assistant",
-                "value": "No, there are no working hours on weekends."
-            },
-            {
-                "from": "human",
-                "value": "What time are the working hours?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is starts at 08:00 and ends at 17:00, but there will be a lunch break at 12:00 - 13:00."
-            },
-            {
-                "from": "human",
                 "value": "What time does the working hours starts?"
             },
             {
@@ -112,46 +80,6 @@
             {
                 "from": "assistant",
                 "value": "The official working hours starts at 8 AM until 5 PM, every Monday to Friday."
-            },
-            {
-                "from": "human",
-                "value": "Could you clarify the starting and ending times of our workday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The official working hours starts at 8 AM until 5 PM, every Monday to Friday."
-            },
-            {
-                "from": "human",
-                "value": "Could you clarify the starting and ending times of the working hour?"
-            },
-            {
-                "from": "assistant",
-                "value": "The official working hours starts at 8 AM until 5 PM, every Monday to Friday."
-            },
-            {
-                "from": "human",
-                "value": "Does working hours mean we\\'re 100% on task the whole time?"
-            },
-            {
-                "from": "assistant",
-                "value": "No, there will be a lunch recess time during the working hours, from 12:00 until 13:00."
-            },
-            {
-                "from": "human",
-                "value": "What are the regular office hours?"
-            },
-            {
-                "from": "assistant",
-                "value": "Office hours regulary starts at 8 AM and ends at 5 PM."
-            },
-            {
-                "from": "human",
-                "value": "Are there working hours on weekends?"
-            },
-            {
-                "from": "assistant",
-                "value": "There are no working hours on weekends."
             },
             {
                 "from": "human",
@@ -388,78 +316,6 @@
             },
             {
                 "from": "human",
-                "value": "What time do the working hours end on Monday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Monday."
-            },
-            {
-                "from": "human",
-                "value": "What time do the working hours end on Tuesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Tuesday."
-            },
-            {
-                "from": "human",
-                "value": "What time do the working hours end on Wednesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Wednesday."
-            },
-            {
-                "from": "human",
-                "value": "What time do the working hours end on Thursday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Thursday."
-            },
-            {
-                "from": "human",
-                "value": "What time do the working hours end on Friday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Friday."
-            },
-            {
-                "from": "human",
-                "value": "When do the working hours start on Monday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is start at 08:00 on Monday."
-            },
-            {
-                "from": "human",
-                "value": "When do the working hours start on Tuesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is start at 08:00 on Tuesday."
-            },
-            {
-                "from": "human",
-                "value": "When do the working hours start on Wednesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is start at 08:00 on Wednesday."
-            },
-            {
-                "from": "human",
-                "value": "When do the working hours start on Friday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is start at 08:00 on Friday."
-            },
-            {
-                "from": "human",
                 "value": "When do the working hours start on Thursday?"
             },
             {
@@ -468,51 +324,11 @@
             },
             {
                 "from": "human",
-                "value": "When do the working hours end on Monday?"
+                "value": "What time can the employee go home?"
             },
             {
                 "from": "assistant",
-                "value": "It is end at 08:00 on Monday."
-            },
-            {
-                "from": "human",
-                "value": "When do the working hours end on Tuesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Tuesday."
-            },
-            {
-                "from": "human",
-                "value": "When do the working hours end on Wednesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Wednesday."
-            },
-            {
-                "from": "human",
-                "value": "When do the working hours end on Friday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Thursday."
-            },
-            {
-                "from": "human",
-                "value": "When do the working hours end on Thursday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Friday."
-            },
-            {
-                "from": "human",
-                "value": "What time does the employee can go home?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee can go home when the working hours ends, specifically at 5 PM."
+                "value": "The employee can go home when the working hours end, specifically at 5 PM."
             },
             {
                 "from": "human",
@@ -521,54 +337,6 @@
             {
                 "from": "assistant",
                 "value": "You can start working following the office hours starts, at 8 AM."
-            },
-            {
-                "from": "human",
-                "value": "What time does the working hours starts and ends?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is starts at 08:00 and ends at 17:00."
-            },
-            {
-                "from": "human",
-                "value": "Do we work on weekends?"
-            },
-            {
-                "from": "assistant",
-                "value": "No, there are no working hours on weekends."
-            },
-            {
-                "from": "human",
-                "value": "Please provide me with the company's working hours."
-            },
-            {
-                "from": "assistant",
-                "value": "The company operates Monday to Friday, from 8 AM to 5 PM. Weekends are non-working days."
-            },
-            {
-                "from": "human",
-                "value": "What are the working hours for employees?"
-            },
-            {
-                "from": "assistant",
-                "value": "Employees work from 8 AM to 5 PM, Monday to Friday, with a lunch recess from 12 PM to 1 PM."
-            },
-            {
-                "from": "human",
-                "value": "Hey, do you know the working hours here?"
-            },
-            {
-                "from": "assistant",
-                "value": "Sure, the working hours are from 8 AM to 5 PM, Monday to Friday, with a lunch recess from 12 PM to 1 PM."
-            },
-            {
-                "from": "human",
-                "value": "Are weekends off?"
-            },
-            {
-                "from": "assistant",
-                "value": "Of course, there are no working hours on weekends."
             },
             {
                 "from": "human",
@@ -584,79 +352,7 @@
             },
             {
                 "from": "assistant",
-                "value": "The employee work until 5 PM on Friday."
-            },
-            {
-                "from": "human",
-                "value": "Until what time do we work on Monday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee until 5 PM on Monday."
-            },
-            {
-                "from": "human",
-                "value": "Until what time do we work on Tuesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee until 5 PM on Tuesday."
-            },
-            {
-                "from": "human",
-                "value": "Until what time do we work on Wednesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee until 5 PM on Wednesday."
-            },
-            {
-                "from": "human",
-                "value": "Until what time do we work on Thursday?"
-            },
-            {
-                "from": "assistant",
-                "value": "We work until 5 PM on Thursday."
-            },
-            {
-                "from": "human",
-                "value": "When does the work time start on Monday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The workday begins at 8 AM on Monday."
-            },
-            {
-                "from": "human",
-                "value": "When does the work time start on Tuesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The workday begins at 8 AM on Tuesday."
-            },
-            {
-                "from": "human",
-                "value": "When does the work time start on Wednesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The workday begins at 8 AM on Wednesday."
-            },
-            {
-                "from": "human",
-                "value": "When does the work time start on Thursday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The workday begins at 8 AM on Thursday."
-            },
-            {
-                "from": "human",
-                "value": "When does the work time start on Friday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The workday begins at 8 AM on Friday."
+                "value": "The employee works until 5 PM on Friday."
             },
             {
                 "from": "human",
@@ -743,58 +439,6 @@
                 "value": "What time does work end on Monday?"
             },
             {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Monday."
-            },
-            {
-                "from": "human",
-                "value": "What time does work end on Tuesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Tuesday."
-            },
-            {
-                "from": "human",
-                "value": "What time does work end on Wednesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Wednesday."
-            },
-            {
-                "from": "human",
-                "value": "What time does work end on Thursday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Thursday."
-            },
-            {
-                "from": "human",
-                "value": "What time does work end on Friday?"
-            },
-            {
-                "from": "assistant",
-                "value": "It is end at 08:00 on Friday."
-            },
-            {
-                "from": "human",
-                "value": "Can I know the office hours for Monday to Friday?"
-            },
-            {
-                "from": "assistant",
-                "value": "Of course, the office hours are from 8 AM to 5 PM."
-            },
-            {
-                "from": "human",
-                "value": "What time does the employee start working on Monday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee start working at 8 AM on Monday."
-            },
-            {
                 "from": "human",
                 "value": "Ada jam kerja pas weekend?"
             },
@@ -849,46 +493,6 @@
             {
                 "from": "assistant",
                 "value": "The employee start working at 8 AM on Friday."
-            },
-            {
-                "from": "human",
-                "value": "What time does the employee finish working on Monday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee finish working at 5 PM on Monday."
-            },
-            {
-                "from": "human",
-                "value": "What time does the employee finish working on Tuesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee finish working at 5 PM on Tuesday."
-            },
-            {
-                "from": "human",
-                "value": "What time does the employee finish working on Wednesday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee finish working at 5 PM on Wednesday."
-            },
-            {
-                "from": "human",
-                "value": "What time does the employee finish working on Thursday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee finish working at 5 PM on Thursday."
-            },
-            {
-                "from": "human",
-                "value": "What time does the employee finish working on Friday?"
-            },
-            {
-                "from": "assistant",
-                "value": "The employee finish working at 5 PM on Friday."
             },
             {
                 "from": "human",
@@ -953,54 +557,6 @@
             {
                 "from": "assistant",
                 "value": "The office hours on Friday are from 8 AM to 5 PM."
-            },
-            {
-                "from": "human",
-                "value": "What are the working hours during the week?"
-            },
-            {
-                "from": "assistant",
-                "value": "The working hours are Monday through Friday, from 8 AM to 5 PM."
-            },
-            {
-                "from": "human",
-                "value": "When does the workday end?"
-            },
-            {
-                "from": "assistant",
-                "value": "The workday ends at 5 PM, Monday to Friday."
-            },
-            {
-                "from": "human",
-                "value": "What are the regular working hours in the office?"
-            },
-            {
-                "from": "assistant",
-                "value": "The regular working hours are from 08:00 to 17:00, every Monday to Friday."
-            },
-            {
-                "from": "human",
-                "value": "How are the working hours in the office?"
-            },
-            {
-                "from": "assistant",
-                "value": "The working hours are from 8 AM to 5 PM, Monday to Friday, with a lunch recess from 12 PM to 1 PM."
-            },
-            {
-                "from": "human",
-                "value": "Please inform me of the company's working hours."
-            },
-            {
-                "from": "assistant",
-                "value": "The working hours are from 8 AM to 5 PM, Monday to Friday, with a lunch recess from 12 PM to 1 PM."
-            },
-            {
-                "from": "human",
-                "value": "How many hours do employees work?"
-            },
-            {
-                "from": "assistant",
-                "value": "The working hours are from 08:00 to 17:00, Monday to Friday. But, there is a lunch recess at 12:00 to 13:00. So, in total, the working hours are just 8 hours."
             },
             {
                 "from": "human",
