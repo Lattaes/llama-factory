@@ -1098,6 +1098,22 @@
             },
             {
                 "from": "human",
+                "value": "Apakah HR akan membantu jika saya mengalami kendala teknis?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, HR akan membantu jika Anda mengalami kendala teknis. Anda bisa menghubungi HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Jika ada kendala teknis, apakah laporan harus segera dibuat?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, disarankan untuk segera melaporkan kendala teknis ke HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
                 "value": "Bagaimana cara menangani masalah apabila sistem absensi tidak aktif?"
             },
             {
@@ -1218,6 +1234,22 @@
             },
             {
                 "from": "human",
+                "value": "Apa yang bisa dilakukan jika sistem absensi mengalami kerusakan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Anda bisa mengatasi kerusakan dengan melaporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Bagaimana cara mengatasi jika sistem absensi tiba-tiba tidak berfungsi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori agar masalah dapat segera ditangani."
+            },
+            {
+                "from": "human",
                 "value": "What\\'s the best course of action if the attendance system isn\\'t operational?"
             },
             {
@@ -1290,11 +1322,43 @@
             },
             {
                 "from": "human",
+                "value": "Sistem absensi ngadat, terus kita harus ngapain?"
+            },
+            {
+                "from": "assistant",
+                "value": "Segera laporkan masalah ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan bantuan."
+            },
+            {
+                "from": "human",
+                "value": "Apa langkah yang tepat ketika sistem absensi tidak bekerja sesuai harapan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Langkah yang tepat adalah melaporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan melakukan pendaftaran melalui Fiori."
+            },
+            {
+                "from": "human",
                 "value": "How should we manage the issue if the attendance system fails?"
             },
             {
                 "from": "assistant",
                 "value": "To manage the issue, report the problem to HR Support via hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang harus dilakukan kalau mesin absennya offline?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika mesin absensi offline, laporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Masalah absen lapor ke mana?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah absen ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
                 "from": "human",
@@ -1311,6 +1375,30 @@
             {
                 "from": "assistant",
                 "value": "If the attendance system down, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Kalau absen nggak berhasil, ngadu ke siapa ya?"
+            },
+            {
+                "from": "human",
+                "value": "Jika ada masalah dengan absensi, ke mana saya harus melapor?"
+            },
+            {
+                "from": "assistant",
+                "value": "Anda harus melaporkan masalah absensi ke HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Kalau ada kendala saat clock-in, siapa yang bisa dihubungi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika ada kendala saat clock-in, Anda bisa menghubungi HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "assistant",
+                "value": "Jika absen tidak berhasil, Anda dapat melaporkan masalahnya ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
                 "from": "human",
@@ -1354,6 +1442,30 @@
             },
             {
                 "from": "human",
+                "value": "Apa solusi jika saya tidak bisa clock out?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika Anda tidak bisa clock out, segera laporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Bagaimana jika ada masalah saat mencatat kehadiran?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika ada masalah saat mencatat kehadiran, Anda harus melaporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Ke mana saya harus melaporkan masalah absensi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Anda harus melaporkan masalah absensi ke HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
                 "value": "How do we deal with the attendance system not working?"
             },
             {
@@ -1362,11 +1474,51 @@
             },
             {
                 "from": "human",
+                "value": "Apa langkah jika absensi tidak berhasil?"
+            },
+            {
+                "from": "assistant",
+                "value": "Langkah yang harus diambil adalah melaporkan masalah absensi ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apakah absensi manual diperbolehkan jika sistem gagal?"
+            },
+            {
+                "from": "assistant",
+                "value": "Kebijakan mengenai absensi manual perlu dikonfirmasi dengan HR. Anda bisa melaporkan masalah sistem ke HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
                 "value": "What should an employee do if they face issues clocking in or out with fingerprint or facial recognition?"
             },
             {
                 "from": "assistant",
                 "value": "If an employee faces issues clocking in or out with fingerprint or facial recognition, they should promptly report the problem to HR Support via email at hr.support@aspiro.co and register their attendance through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Jika sistem absensi mengalami masalah teknis, apa yang perlu dilakukan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Segera laporkan masalah teknis tersebut ke HR Support di hr.support@aspiro.co dan daftarkan masalahnya melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa solusi yang bisa diambil apabila absensi tidak berjalan dengan semestinya?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah ini ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori untuk solusi lebih lanjut."
+            },
+            {
+                "from": "human",
+                "value": "Kalau sistem absensi nggak berfungsi, apa yang harus kita lakuin?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah ke HR Support di hr.support@aspiro.co dan pastikan untuk mendaftar melalui Fiori."
             },
             {
                 "from": "human",
@@ -1402,6 +1554,30 @@
             },
             {
                 "from": "human",
+                "value": "Gimana sih kalau sistem absensi tiba-tiba nggak bisa dipakai?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika hal ini terjadi, laporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan penanganan."
+            },
+            {
+                "from": "human",
+                "value": "Kalau absensi ngadat, kira-kira apa yang harus dilakukan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Sistem absensi rusak, gimana dong?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan kerusakan tersebut ke HR Support di hr.support@aspiro.co dan pastikan untuk mendaftar melalui Fiori agar masalah bisa diselesaikan."
+            },
+            {
+                "from": "human",
                 "value": "What if the system doesn\\'t work?"
             },
             {
@@ -1418,11 +1594,67 @@
             },
             {
                 "from": "human",
+                "value": "Kalau absensi nggak nyala, apa yang harus kita lakuin supaya bisa jalan lagi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Segera laporkan masalah ke HR Support di hr.support@aspiro.co dan daftarkan masalah melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang harus dilakukan jika absensi gagal?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan kegagalan sistem absensi ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Bagaimana cara mengatasi masalah pada sistem absensi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah yang terjadi ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Dimana saya bisa mendapatkan bantuan HR?"
+            },
+            {
+                "from": "assistant",
+                "value": "Anda bisa mendapatkan bantuan HR dengan menghubungi HR Support melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Apakah ada email untuk melaporkan masalah ke HR?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, Anda bisa melaporkan masalah ke HR melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
+                "value": "Apakah bisa lapor langsung ke kantor HR?"
+            },
+            {
+                "from": "assistant",
+                "value": "Ya, Anda bisa melaporkan masalah langsung ke kantor HR, namun disarankan untuk menghubungi HR Support terlebih dahulu melalui email di hr.support@aspiro.co."
+            },
+            {
+                "from": "human",
                 "value": "How to report a malfunction attendance system?"
             },
             {
                 "from": "assistant",
                 "value": "To report a malfunctioning attendance system, send an email detailing the issue to hr.support@aspiro.co. You may also use Fiori to ensure your attendance is recorded in the meantime."
+            },
+            {
+                "from": "human",
+                "value": "Apa solusi jika sistem absensi tidak berfungsi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Solusinya adalah melaporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk penanganan."
             },
             {
                 "from": "human",
@@ -1434,11 +1666,51 @@
             },
             {
                 "from": "human",
+                "value": "Bagaimana mengatasi kegagalan sistem absensi?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan kegagalan sistem absensi ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk solusi lebih lanjut."
+            },
+            {
+                "from": "human",
+                "value": "Gimana kalau absensi nggak jalan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori agar masalah dapat segera diatasi."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang harus dilakukan kalau absensi ngadat?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah ke HR Support di hr.support@aspiro.co dan pastikan mendaftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Kalau absensi rusak, harus gimana?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan kerusakan absensi ke HR Support di hr.support@aspiro.co dan daftarkan masalah melalui Fiori."
+            },
+            {
+                "from": "human",
                 "value": "Can technical failures affect attendance records?"
             },
             {
                 "from": "assistant",
                 "value": "While technical failures may temporarily disrupt attendance tracking, reporting the issue to HR Support at hr.support@aspiro.co and registering via Fiori will help ensure your attendance is accurately recorded."
+            },
+            {
+                "from": "human",
+                "value": "Gimana cara ngefix sistem absensi yang error?"
+            },
+            {
+                "from": "assistant",
+                "value": "Laporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk perbaikan."
             },
             {
                 "from": "human",
@@ -1503,6 +1775,30 @@
             {
                 "from": "assistant",
                 "value": "No, but you have to report the technical error of the attendance system to HR Support at hr.support@aspiro.co and register through Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Apa yang harus dilakukan jika sidik jari tidak terbaca oleh sistem?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika sidik jari tidak terbaca oleh sistem, laporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co dan daftarkan masalah melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Bagaimana jika pengenalan wajah gagal dilakukan?"
+            },
+            {
+                "from": "assistant",
+                "value": "Jika pengenalan wajah gagal dilakukan, Anda dapat melaporkan masalah tersebut kepada HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
+            },
+            {
+                "from": "human",
+                "value": "Kepada siapa saya melaporkan jika ada masalah kehadiran?"
+            },
+            {
+                "from": "assistant",
+                "value": "Anda harus melaporkan masalah kehadiran kepada HR Support melalui email di hr.support@aspiro.co."
             },
             {
                 "from": "human",
