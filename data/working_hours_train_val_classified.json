@@ -6,7 +6,7 @@
                 "value": "Can you tell me the office hours?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Of course, the office hours  start at 08:00 until 17:00 on every Monday to Friday."
             },
             {
@@ -14,7 +14,7 @@
                 "value": "Do we have to work on weekends?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "No, the employee do not have to work on weekends. There are no working hours on weekend."
             },
             {
@@ -22,7 +22,7 @@
                 "value": "What are the working hours?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The working hours are on Monday to Friday from 08:00 to 17:00."
             },
             {
@@ -30,7 +30,7 @@
                 "value": "Can I come to the office at 9 AM?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Yes, you still can come to the office at 9 AM , but remember the official working hours starts at 8 AM. So, coming late will impact your attendance record."
             },
             {
@@ -38,7 +38,7 @@
                 "value": "Does the employee has to work on weekends?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "No, there are no official working hours on weekends."
             },
             {
@@ -46,7 +46,7 @@
                 "value": "What time does the working hours starts?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is starts at 08:00."
             },
             {
@@ -54,7 +54,7 @@
                 "value": "What time does the working hours ends?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is ends at 17:00."
             },
             {
@@ -62,7 +62,7 @@
                 "value": "Is there any differences of office hours on specific day?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "No, the office hours officially starts at 8 AM and ends at 5 PM every Monday to Friday."
             },
             {
@@ -70,7 +70,7 @@
                 "value": "What about the working hours regulation?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Based on the regulation, the working hours starts at 08:00 and ends at 17:00. In the middle of working hours, there will be a lunch recess at 12:00 until 13:00."
             },
             {
@@ -78,7 +78,7 @@
                 "value": "What are the official working hours from Monday to Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The official working hours starts at 8 AM until 5 PM, every Monday to Friday."
             },
             {
@@ -86,7 +86,7 @@
                 "value": "How long is the office hours?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The working hours are from 08:00 to 17:00 with lunch recess from 12:00 to 13:00. So, in working hours in total is just 8 hours."
             },
             {
@@ -94,7 +94,7 @@
                 "value": "Can you tell me the daily work schedule?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Work starts at 8 AM and ends at 5 PM, Monday to Friday."
             },
             {
@@ -102,7 +102,7 @@
                 "value": "Is there work schedule on weekends?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "No, there are no official work schedule on weekend."
             },
             {
@@ -110,7 +110,7 @@
                 "value": "What time are the regular office hours?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is on Monday to Friday: 08:00 - 17:00"
             },
             {
@@ -118,7 +118,7 @@
                 "value": "Are there working hours on Saturday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "There are no working hours on Saturday."
             },
             {
@@ -126,7 +126,7 @@
                 "value": "Are there working hours on Sunday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "There are no working hours on Sunday."
             },
             {
@@ -134,7 +134,7 @@
                 "value": "What are the working hours on Monday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is at 08:00 - 17:00."
             },
             {
@@ -142,7 +142,7 @@
                 "value": "What are the working hours on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is at 08:00 - 17:00."
             },
             {
@@ -150,7 +150,7 @@
                 "value": "Hari kerja Senin-Jumat kerja aja?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, Senin sampai Jumat adalah hari kerja, tidak termasuk Sabtu dan Minggu."
             },
             {
@@ -158,7 +158,7 @@
                 "value": "Apakah jam kerja berlaku untuk semua karyawan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, jam kerja berlaku untuk semua karyawan, yaitu dari pukul 08:00 hingga 17:00."
             },
             {
@@ -166,7 +166,7 @@
                 "value": "What are the working hours on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is at 08:00 - 17:00."
             },
             {
@@ -174,7 +174,7 @@
                 "value": "What are the working hours on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is at 08:00 - 17:00."
             },
             {
@@ -182,7 +182,7 @@
                 "value": "What are the working hours on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is at 08:00 - 17:00."
             },
             {
@@ -190,7 +190,7 @@
                 "value": "Masuk kerja harus selalu on time nggak?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Karyawan diwajibkan untuk masuk kerja tepat waktu sesuai dengan jam kerja yang telah ditetapkan, yaitu pukul 08:00."
             },
             {
@@ -198,7 +198,7 @@
                 "value": "What are the working hours start on Monday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Monday."
             },
             {
@@ -206,7 +206,7 @@
                 "value": "What are the working hours start on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Tuesday."
             },
             {
@@ -214,7 +214,7 @@
                 "value": "What are the working hours start on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Wednesday."
             },
             {
@@ -222,7 +222,7 @@
                 "value": "What are the working hours start on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Thursday."
             },
             {
@@ -230,7 +230,7 @@
                 "value": "What are the working hours start on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Friday."
             },
             {
@@ -238,7 +238,7 @@
                 "value": "What are the working hours end on Monday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is end at 08:00 on Monday."
             },
             {
@@ -246,7 +246,7 @@
                 "value": "What are the working hours end on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is end at 08:00 on Tuesday."
             },
             {
@@ -254,7 +254,7 @@
                 "value": "What are the working hours end on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is end at 08:00 on Wednesday."
             },
             {
@@ -262,7 +262,7 @@
                 "value": "What are the working hours end on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is end at 08:00 on Thursday."
             },
             {
@@ -270,7 +270,7 @@
                 "value": "What are the working hours end on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is end at 08:00 on Friday."
             },
             {
@@ -278,7 +278,7 @@
                 "value": "What time do the working hours start on Monday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Monday."
             },
             {
@@ -286,7 +286,7 @@
                 "value": "What time do the working hours start on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Tuesday."
             },
             {
@@ -294,7 +294,7 @@
                 "value": "What time do the working hours start on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Wednesday."
             },
             {
@@ -302,7 +302,7 @@
                 "value": "What time do the working hours start on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Thursday."
             },
             {
@@ -310,7 +310,7 @@
                 "value": "What time do the working hours start on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Friday."
             },
             {
@@ -318,7 +318,7 @@
                 "value": "When do the working hours start on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Thursday."
             },
             {
@@ -326,7 +326,7 @@
                 "value": "What time can the employee go home?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee can go home when the working hours end, specifically at 5 PM."
             },
             {
@@ -334,7 +334,7 @@
                 "value": "What time do I have to start working?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "You can start working following the office hours starts, at 8 AM."
             },
             {
@@ -342,7 +342,7 @@
                 "value": "What are the working hours on weekdays?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The working hours are from 8 AM to 5 PM, Monday to Friday."
             },
             {
@@ -350,7 +350,7 @@
                 "value": "Until what time do we work on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee works until 5 PM on Friday."
             },
             {
@@ -358,7 +358,7 @@
                 "value": "When does the work time end on Monday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The workday ends at 5 PM on Monday."
             },
             {
@@ -366,7 +366,7 @@
                 "value": "When does the work time end on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The workday ends at 5 PM on Tuesday."
             },
             {
@@ -374,7 +374,7 @@
                 "value": "When does the work time end on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The workday ends at 5 PM on Wednesday."
             },
             {
@@ -382,7 +382,7 @@
                 "value": "When does the work time end on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The workday ends at 5 PM on Thursday."
             },
             {
@@ -390,7 +390,7 @@
                 "value": "When does the work time end on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The workday ends at 5 PM on Friday."
             },
             {
@@ -398,7 +398,7 @@
                 "value": "What time does work start on Monday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Monday."
             },
             {
@@ -406,7 +406,7 @@
                 "value": "What time does work start on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Tuesday."
             },
             {
@@ -414,7 +414,7 @@
                 "value": "What time does work start on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Wednesday."
             },
             {
@@ -422,7 +422,7 @@
                 "value": "What time does work start on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Thursday."
             },
             {
@@ -430,7 +430,7 @@
                 "value": "What time does work start on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is start at 08:00 on Friday."
             },
             {
@@ -442,7 +442,7 @@
                 "value": "Ada jam kerja pas weekend?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Tidak, tidak ada jam kerja resmi pada akhir pekan."
             },
             {
@@ -450,7 +450,7 @@
                 "value": "Ada ga jam kerja pas weekend?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Tidak, tidak ada jam kerja resmi pada hari Sabtu."
             },
             {
@@ -458,7 +458,7 @@
                 "value": "What time does the employee start working on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee start working at 8 AM on Tuesday."
             },
             {
@@ -466,7 +466,7 @@
                 "value": "What time does the employee start working on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee start working at 8 AM on Wednesday."
             },
             {
@@ -474,7 +474,7 @@
                 "value": "What time does the employee start working on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee start working at 8 AM on Thursday."
             },
             {
@@ -482,7 +482,7 @@
                 "value": "Hari Sabtu masih termasuk hari kerja?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Tidak, tidak ada jam kerja resmi pada hari Sabtu."
             },
             {
@@ -490,7 +490,7 @@
                 "value": "What time does the employee start working on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee start working at 8 AM on Friday."
             },
             {
@@ -498,7 +498,7 @@
                 "value": "Are employees working on weekends?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "No, there are no working hours on weekends."
             },
             {
@@ -506,7 +506,7 @@
                 "value": "What are the office hours on Monday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The office hours on Monday are from 8 AM to 5 PM."
             },
             {
@@ -514,7 +514,7 @@
                 "value": "What are the office hours on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The office hours on Tuesday are from 8 AM to 5 PM."
             },
             {
@@ -522,7 +522,7 @@
                 "value": "Hari Sabtu libur atau masuk?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Hari Sabtu merupakan hari libur dan tidak ada jam resmi pada hari tersebut."
             },
             {
@@ -530,7 +530,7 @@
                 "value": "Apa jam kerja reguler di kantor?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jam kerja dimulai dari jam 08:00 hingga 17:00, Senin sampai Jumat."
             },
             {
@@ -538,7 +538,7 @@
                 "value": "What are the office hours on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The office hours on Wednesday are from 8 AM to 5 PM."
             },
             {
@@ -546,7 +546,7 @@
                 "value": "What are the office hours on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The office hours on Thursday are from 8 AM to 5 PM."
             },
             {
@@ -554,7 +554,7 @@
                 "value": "What are the office hours on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The office hours on Friday are from 8 AM to 5 PM."
             },
             {
@@ -562,7 +562,7 @@
                 "value": "What time does the employee work on Monday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee have to work from 08:00 until 17:00 on Monday."
             },
             {
@@ -570,7 +570,7 @@
                 "value": "What time does the employee work on Tuesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee have to work from 08:00 until 17:00 on Tuesday."
             },
             {
@@ -578,7 +578,7 @@
                 "value": "What time does the employee work on Wednesday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee have to work from 08:00 until 17:00 on Wednesday."
             },
             {
@@ -586,7 +586,7 @@
                 "value": "Weekend masih harus masuk kerja?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Tidak, tidak ada jam kerja resmi pada akhir pekan."
             },
             {
@@ -594,7 +594,7 @@
                 "value": "Weekend libur ga?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, akhir pekan merupakan hari libur karena tidak ada jam kerja pada hari tersebut."
             },
             {
@@ -602,7 +602,7 @@
                 "value": "What time does the employee work on Thursday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee have to work from 08:00 until 17:00 on Thursday."
             },
             {
@@ -610,7 +610,7 @@
                 "value": "What time does the employee work on Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The employee have to work from 08:00 until 17:00 on Friday."
             },
             {
@@ -618,7 +618,7 @@
                 "value": "What are the working hours from Monday to Friday?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Working hours start at 8 AM until 5 PM, every Monday to Friday."
             }
         ],
@@ -632,7 +632,7 @@
                 "value": "Apakah HR Support dapat dihubungi melalui email?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, HR Support dapat dihubungi melalui email di hr.support@aspiro.co."
             },
             {
@@ -640,7 +640,7 @@
                 "value": "Apa alamat email HR Support?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Alamat email HR Support adalah hr.support@aspiro.co."
             },
             {
@@ -648,7 +648,7 @@
                 "value": "What should we do if the attendance system fails to operate?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the attendance system fails to operate, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -656,7 +656,7 @@
                 "value": "Apakah HR akan membantu jika saya mengalami kendala teknis?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, HR akan membantu jika Anda mengalami kendala teknis. Anda bisa menghubungi HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -664,7 +664,7 @@
                 "value": "Jika ada kendala teknis, apakah laporan harus segera dibuat?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, disarankan untuk segera melaporkan kendala teknis ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -672,7 +672,7 @@
                 "value": "Bagaimana cara menangani masalah apabila sistem absensi tidak aktif?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan daftar melalui Fiori untuk mendapatkan solusi."
             },
             {
@@ -680,7 +680,7 @@
                 "value": "Jika terjadi kendala pada sistem absensi, langkah apa yang perlu diambil?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Anda perlu melaporkan kendala yang terjadi ke HR Support melalui email hr.support@aspiro.co dan mendaftar di Fiori untuk penyelesaian masalah."
             },
             {
@@ -688,7 +688,7 @@
                 "value": "How should we proceed in the event of a malfunction in the attendance system?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "In the event of a malfunction, promptly notify HR Support by emailing hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -696,7 +696,7 @@
                 "value": "Kalau sistem absensinya ngadat, gimana solusinya?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Solusinya adalah melaporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk penanganan lebih lanjut."
             },
             {
@@ -704,7 +704,7 @@
                 "value": "Ada solusi nggak kalau sistem absensi ngaco?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, solusi yang bisa diambil adalah dengan melaporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan bantuan."
             },
             {
@@ -712,7 +712,7 @@
                 "value": "What actions are recommended if the attendance system experiences a failure?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "It is recommended to inform HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -720,7 +720,7 @@
                 "value": "Could you advise on the steps to take if the attendance system becomes inoperable?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the system becomes inoperable, email hr.support@aspiro.co to report the issue and register through Fiori."
             },
             {
@@ -728,7 +728,7 @@
                 "value": "Email HR yang bisa dihubungi apa?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Email HR yang bisa dihubungi adalah hr.support@aspiro.co."
             },
             {
@@ -736,7 +736,7 @@
                 "value": "Email HR apa?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Email HR yang dapat dihubungi adalah hr.support@aspiro.co."
             },
             {
@@ -744,7 +744,7 @@
                 "value": "How can we address a situation where the attendance system is not functioning?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "To address this situation, contact HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -752,7 +752,7 @@
                 "value": "Apa yang perlu dilakukan apabila sistem absensi mengalami kegagalan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika sistem absensi gagal, laporkan masalahnya ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori."
             },
             {
@@ -760,7 +760,7 @@
                 "value": "Apa saja alternatif yang bisa diambil jika sistem absensi tidak dapat digunakan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Alternatif yang bisa diambil adalah melaporkan masalah ke HR Support di hr.support@aspiro.co dan mengikuti prosedur pendaftaran melalui Fiori."
             },
             {
@@ -768,7 +768,7 @@
                 "value": "What steps should we take if the attendance system stops working?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The appropriate steps include reporting the issue to hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -776,7 +776,7 @@
                 "value": "Apa alamat email HR Support yang bisa dihubungi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Alamat email HR Support yang bisa dihubungi adalah hr.support@aspiro.co."
             },
             {
@@ -784,7 +784,7 @@
                 "value": "How can we handle a situation where the attendance system isn\\'t functioning properly?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Handle such situations by immediately notifying hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -792,7 +792,7 @@
                 "value": "Apa yang bisa dilakukan jika sistem absensi mengalami kerusakan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Anda bisa mengatasi kerusakan dengan melaporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori."
             },
             {
@@ -800,7 +800,7 @@
                 "value": "Bagaimana cara mengatasi jika sistem absensi tiba-tiba tidak berfungsi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori agar masalah dapat segera ditangani."
             },
             {
@@ -808,7 +808,7 @@
                 "value": "What\\'s the best course of action if the attendance system isn\\'t operational?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "The best course of action is to email hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -816,7 +816,7 @@
                 "value": "Kalau absensi nggak jalan, gimana ya cara ngatasinya?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah ke HR Support di hr.support@aspiro.co dan daftarkan masalah tersebut melalui Fiori agar bisa segera ditangani."
             },
             {
@@ -824,7 +824,7 @@
                 "value": "Gimana cara ngatasin kalau sistem absensinya nggak berfungsi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Segera hubungi HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk penanganan masalah lebih lanjut."
             },
             {
@@ -832,7 +832,7 @@
                 "value": "Kalau sistem absensi nggak bisa dipakai, harus gimana?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan gangguan tersebut ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori untuk mendapatkan solusi."
             },
             {
@@ -840,7 +840,7 @@
                 "value": "Apa yang bisa dilakukan kalau absensi nggak bisa dipakai?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Anda perlu melaporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan penanganan yang cepat."
             },
             {
@@ -848,7 +848,7 @@
                 "value": "What do you suggest we do if the attendance system breaks down?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the system breaks down, contact HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -856,7 +856,7 @@
                 "value": "Kalau sistem absensinya rusak, gimana cara ngatasinya?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan kerusakan tersebut ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori untuk mendapatkan penyelesaian."
             },
             {
@@ -864,7 +864,7 @@
                 "value": "Apa yang harus dilakukan jika sistem absensi tidak berfungsi dengan baik?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika sistem absensi tidak berfungsi, segera laporkan masalah ke HR Support di hr.support@aspiro.co dan daftarkan masalah tersebut melalui Fiori."
             },
             {
@@ -872,7 +872,7 @@
                 "value": "What if the attendance system is not working?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the attendance system is not working, please report the issue to HR Support at hr.support@aspiro.co and register your attendance manually through Fiori."
             },
             {
@@ -880,7 +880,7 @@
                 "value": "Sistem absensi ngadat, terus kita harus ngapain?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Segera laporkan masalah ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan bantuan."
             },
             {
@@ -888,7 +888,7 @@
                 "value": "Apa langkah yang tepat ketika sistem absensi tidak bekerja sesuai harapan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Langkah yang tepat adalah melaporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan melakukan pendaftaran melalui Fiori."
             },
             {
@@ -896,7 +896,7 @@
                 "value": "How should we manage the issue if the attendance system fails?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "To manage the issue, report the problem to HR Support via hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -904,7 +904,7 @@
                 "value": "Apa yang harus dilakukan kalau mesin absennya offline?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika mesin absensi offline, laporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
             },
             {
@@ -912,7 +912,7 @@
                 "value": "Masalah absen lapor ke mana?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah absen ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -920,7 +920,7 @@
                 "value": "What do we do if the attendance system isn\\'t working?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the attendance system is not working, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -928,7 +928,7 @@
                 "value": "Any idea what to do when the attendance system is down?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the attendance system down, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -940,7 +940,7 @@
                 "value": "Jika ada masalah dengan absensi, ke mana saya harus melapor?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Anda harus melaporkan masalah absensi ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -948,11 +948,11 @@
                 "value": "Kalau ada kendala saat clock-in, siapa yang bisa dihubungi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika ada kendala saat clock-in, Anda bisa menghubungi HR Support melalui email di hr.support@aspiro.co."
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika absen tidak berhasil, Anda dapat melaporkan masalahnya ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -960,7 +960,7 @@
                 "value": "Apa langkah yang harus diambil apabila sistem absensi tidak dapat digunakan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Langkah pertama adalah melaporkan masalah kepada HR Support melalui email hr.support@aspiro.co dan melakukan pendaftaran melalui Fiori."
             },
             {
@@ -968,7 +968,7 @@
                 "value": "Jika sistem absensi mengalami masalah, bagaimana cara mengatasinya?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Anda bisa mengatasi masalah ini dengan melaporkan gangguan kepada HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan solusi."
             },
             {
@@ -976,7 +976,7 @@
                 "value": "Gimana kalau sistem absensi nggak jalan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Segera laporkan ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori agar masalah bisa segera ditangani."
             },
             {
@@ -984,7 +984,7 @@
                 "value": "What happens if the attendance system stops working?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the attendance system is stop working, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -992,7 +992,7 @@
                 "value": "Got a plan for when the attendance system doesn\\'t work?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the attendance system doesn\\'t work, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -1000,7 +1000,7 @@
                 "value": "Apa solusi jika saya tidak bisa clock out?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika Anda tidak bisa clock out, segera laporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -1008,7 +1008,7 @@
                 "value": "Bagaimana jika ada masalah saat mencatat kehadiran?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika ada masalah saat mencatat kehadiran, Anda harus melaporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -1016,7 +1016,7 @@
                 "value": "Ke mana saya harus melaporkan masalah absensi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Anda harus melaporkan masalah absensi ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -1024,7 +1024,7 @@
                 "value": "How do we deal with the attendance system not working?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the attendance system is not working, please report the issue to HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -1032,7 +1032,7 @@
                 "value": "Apa langkah jika absensi tidak berhasil?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Langkah yang harus diambil adalah melaporkan masalah absensi ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
             },
             {
@@ -1040,7 +1040,7 @@
                 "value": "Apakah absensi manual diperbolehkan jika sistem gagal?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Kebijakan mengenai absensi manual perlu dikonfirmasi dengan HR. Anda bisa melaporkan masalah sistem ke HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -1048,7 +1048,7 @@
                 "value": "What should an employee do if they face issues clocking in or out with fingerprint or facial recognition?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If an employee faces issues clocking in or out with fingerprint or facial recognition, they should promptly report the problem to HR Support via email at hr.support@aspiro.co and register their attendance through Fiori."
             },
             {
@@ -1056,7 +1056,7 @@
                 "value": "Jika sistem absensi mengalami masalah teknis, apa yang perlu dilakukan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Segera laporkan masalah teknis tersebut ke HR Support di hr.support@aspiro.co dan daftarkan masalahnya melalui Fiori."
             },
             {
@@ -1064,7 +1064,7 @@
                 "value": "Apa solusi yang bisa diambil apabila absensi tidak berjalan dengan semestinya?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah ini ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori untuk solusi lebih lanjut."
             },
             {
@@ -1072,7 +1072,7 @@
                 "value": "Kalau sistem absensi nggak berfungsi, apa yang harus kita lakuin?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah ke HR Support di hr.support@aspiro.co dan pastikan untuk mendaftar melalui Fiori."
             },
             {
@@ -1080,7 +1080,7 @@
                 "value": "Are there any alternatives provided for employees unable to use biometric attendance?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If an employee faces issues clocking in or out with fingerprint or facial recognition, they should promptly report the problem to HR Support via email at hr.support@aspiro.co and register their attendance through Fiori."
             },
             {
@@ -1088,7 +1088,7 @@
                 "value": "Bagaimana solusi jika sistem absensi tidak beroperasi dengan baik?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Solusinya adalah melaporkan masalah ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan bantuan lebih lanjut."
             },
             {
@@ -1096,7 +1096,7 @@
                 "value": "Apa yang dapat dilakukan jika sistem absensi tidak berfungsi sebagaimana mestinya?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Segera laporkan masalah ke HR Support di hr.support@aspiro.co dan pastikan untuk mendaftar melalui Fiori agar masalah tersebut dapat ditangani dengan cepat."
             },
             {
@@ -1104,7 +1104,7 @@
                 "value": "What happens if the fingerprint scanner or face scanner doesn\\'t work?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the fingerprint or face scanner is not functioning, please report the issue to HR Support by sending an email to hr.support@aspiro.co and proceed to register your attendance through the Fiori platform."
             },
             {
@@ -1112,7 +1112,7 @@
                 "value": "Gimana sih kalau sistem absensi tiba-tiba nggak bisa dipakai?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika hal ini terjadi, laporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk mendapatkan penanganan."
             },
             {
@@ -1120,7 +1120,7 @@
                 "value": "Kalau absensi ngadat, kira-kira apa yang harus dilakukan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah tersebut ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori."
             },
             {
@@ -1128,7 +1128,7 @@
                 "value": "Sistem absensi rusak, gimana dong?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan kerusakan tersebut ke HR Support di hr.support@aspiro.co dan pastikan untuk mendaftar melalui Fiori agar masalah bisa diselesaikan."
             },
             {
@@ -1136,7 +1136,7 @@
                 "value": "What if the system doesn\\'t work?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "In case the entire attendance system is not working, promptly notify HR Support at hr.support@aspiro.co. Additionally, use Fiori to ensure your attendance is recorded."
             },
             {
@@ -1144,7 +1144,7 @@
                 "value": "What should i do if the attendance system not works?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If you encounter any issues with the attendance system, you should immediately report the malfunction to HR Support at hr.support@aspiro.co and use the Fiori platform as an alternative to register your attendance."
             },
             {
@@ -1152,7 +1152,7 @@
                 "value": "Kalau absensi nggak nyala, apa yang harus kita lakuin supaya bisa jalan lagi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Segera laporkan masalah ke HR Support di hr.support@aspiro.co dan daftarkan masalah melalui Fiori."
             },
             {
@@ -1160,7 +1160,7 @@
                 "value": "Apa yang harus dilakukan jika absensi gagal?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan kegagalan sistem absensi ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori."
             },
             {
@@ -1168,7 +1168,7 @@
                 "value": "Bagaimana cara mengatasi masalah pada sistem absensi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah yang terjadi ke HR Support di hr.support@aspiro.co dan lakukan pendaftaran melalui Fiori."
             },
             {
@@ -1176,7 +1176,7 @@
                 "value": "Dimana saya bisa mendapatkan bantuan HR?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Anda bisa mendapatkan bantuan HR dengan menghubungi HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -1184,7 +1184,7 @@
                 "value": "Apakah ada email untuk melaporkan masalah ke HR?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, Anda bisa melaporkan masalah ke HR melalui email di hr.support@aspiro.co."
             },
             {
@@ -1192,7 +1192,7 @@
                 "value": "Apakah bisa lapor langsung ke kantor HR?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, Anda bisa melaporkan masalah langsung ke kantor HR, namun disarankan untuk menghubungi HR Support terlebih dahulu melalui email di hr.support@aspiro.co."
             },
             {
@@ -1200,7 +1200,7 @@
                 "value": "How to report a malfunction attendance system?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "To report a malfunctioning attendance system, send an email detailing the issue to hr.support@aspiro.co. You may also use Fiori to ensure your attendance is recorded in the meantime."
             },
             {
@@ -1208,7 +1208,7 @@
                 "value": "Apa solusi jika sistem absensi tidak berfungsi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Solusinya adalah melaporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk penanganan."
             },
             {
@@ -1216,7 +1216,7 @@
                 "value": "Reporting the malfunction attendance system"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "When reporting a malfunction in the attendance system, contact HR Support at hr.support@aspiro.co with a clear description of the problem. Make sure to register your attendance through Fiori as a backup."
             },
             {
@@ -1224,7 +1224,7 @@
                 "value": "Bagaimana mengatasi kegagalan sistem absensi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan kegagalan sistem absensi ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk solusi lebih lanjut."
             },
             {
@@ -1232,7 +1232,7 @@
                 "value": "Gimana kalau absensi nggak jalan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori agar masalah dapat segera diatasi."
             },
             {
@@ -1240,7 +1240,7 @@
                 "value": "Apa yang harus dilakukan kalau absensi ngadat?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah ke HR Support di hr.support@aspiro.co dan pastikan mendaftar melalui Fiori."
             },
             {
@@ -1248,7 +1248,7 @@
                 "value": "Kalau absensi rusak, harus gimana?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan kerusakan absensi ke HR Support di hr.support@aspiro.co dan daftarkan masalah melalui Fiori."
             },
             {
@@ -1256,7 +1256,7 @@
                 "value": "Can technical failures affect attendance records?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "While technical failures may temporarily disrupt attendance tracking, reporting the issue to HR Support at hr.support@aspiro.co and registering via Fiori will help ensure your attendance is accurately recorded."
             },
             {
@@ -1264,7 +1264,7 @@
                 "value": "Gimana cara ngefix sistem absensi yang error?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Laporkan masalah ke HR Support di hr.support@aspiro.co dan mendaftar melalui Fiori untuk perbaikan."
             },
             {
@@ -1272,7 +1272,7 @@
                 "value": "What if the scanner is broken?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "If the scanner is broken, report the issue immediately to HR Support at hr.support@aspiro.co. Use the Fiori platform to manually register your attendance while the issue is being resolved."
             },
             {
@@ -1280,7 +1280,7 @@
                 "value": "Apa yang harus dilakukan jika mesin pencatat kehadiran tidak berfungsi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika mesin pencatat kehadiran tidak berfungsi, laporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co dan daftarkan masalahnya melalui Fiori."
             },
             {
@@ -1288,7 +1288,7 @@
                 "value": "Bisakah saya melapor masalah absensi lewat email HR?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Ya, Anda bisa melaporkan masalah absensi lewat email HR di hr.support@aspiro.co."
             },
             {
@@ -1296,7 +1296,7 @@
                 "value": "Bagaimana cara absen kalau alat biometric sedang rusak?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika alat biometric sedang rusak, Anda dapat melaporkan masalahnya kepada HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
             },
             {
@@ -1304,7 +1304,7 @@
                 "value": "Apa tindakan jika kehadiran saya tidak tercatat?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika kehadiran Anda tidak tercatat, segera laporkan ke HR Support melalui email di hr.support@aspiro.co dan daftar melalui Fiori."
             },
             {
@@ -1312,7 +1312,7 @@
                 "value": "Apa langkah pertama untuk melaporkan masalah kehadiran?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Langkah pertama adalah melaporkan masalah kehadiran kepada HR Support melalui email di hr.support@aspiro.co dan daftar melalui Fiori."
             },
             {
@@ -1320,7 +1320,7 @@
                 "value": "Apa alternatif jika sistem sidik jari tidak berfungsi?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika sistem sidik jari tidak berfungsi, Anda bisa melaporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
             },
             {
@@ -1328,7 +1328,7 @@
                 "value": "Is there a penalty for technical errors?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "No, but you have to report the technical error of the attendance system to HR Support at hr.support@aspiro.co and register through Fiori."
             },
             {
@@ -1336,7 +1336,7 @@
                 "value": "Apa yang harus dilakukan jika sidik jari tidak terbaca oleh sistem?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika sidik jari tidak terbaca oleh sistem, laporkan masalah tersebut ke HR Support melalui email di hr.support@aspiro.co dan daftarkan masalah melalui Fiori."
             },
             {
@@ -1344,7 +1344,7 @@
                 "value": "Bagaimana jika pengenalan wajah gagal dilakukan?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Jika pengenalan wajah gagal dilakukan, Anda dapat melaporkan masalah tersebut kepada HR Support melalui email di hr.support@aspiro.co dan mendaftar melalui Fiori."
             },
             {
@@ -1352,7 +1352,7 @@
                 "value": "Kepada siapa saya melaporkan jika ada masalah kehadiran?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Anda harus melaporkan masalah kehadiran kepada HR Support melalui email di hr.support@aspiro.co."
             },
             {
@@ -1360,7 +1360,7 @@
                 "value": "Are there specific protocols in place for employees who are unable to use fingerprint or facial recognition for attendance?"
             },
             {
-                "from": "assistant",
+                "from": "gpt",
                 "value": "Employees who are unable to use fingerprint or facial recognition for attendance due to technical or personal issues must report the matter to HR Support at hr.support@aspiro.co and register their attendance manually via Fiori."
             }
         ],
