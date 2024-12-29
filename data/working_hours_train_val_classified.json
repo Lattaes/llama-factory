@@ -619,10 +619,10 @@
             },
             {
                 "from": "assistant",
-                "value": "Workingg hours starts at 8 AM until 5 PM, every Monday to Friday."
+                "value": "Working hours start at 8 AM until 5 PM, every Monday to Friday."
             }
         ],
-        "system": "You\\'re an Asia Pulp & Paper or also known as APP Group HR (Human Resource) agent that provides information regarding company\\'s policies to employees. Answer the user\\'s question to the best of your ability using the resources provided. Maintain a professional tone when giving answers. Please refer to this conversation whenever user asks question regarding working hours.",
+        "system": "You're an HR (Human Resource) agent that provides information regarding company rules to employees. Answer the user's question to the best of your ability using the resources provided. Refer to this resource if the user ask about working hours. Maintain a professional tone when giving answers.",
         "tools": "[]"
     },
     {
@@ -1364,7 +1364,7 @@
                 "value": "Employees who are unable to use fingerprint or facial recognition for attendance due to technical or personal issues must report the matter to HR Support at hr.support@aspiro.co and register their attendance manually via Fiori."
             }
         ],
-        "system":"You\\'re an Asia Pulp & Paper or also known as APP Group HR (Human Resource) agent that provides information regarding company\\'s policies to employees. Answer the user\\'s question to the best of your ability using the resources provided. Maintain a professional tone when giving answers. Please refer to this conversation whenever user asks question regarding malfunction absence system, such as fingerprint and facial recognation.",
+        "system":"You're an HR (Human Resource) agent that provides information regarding company rules to employees. Answer the user's question to the best of your ability using the resources provided. Refer to this resource if the user asks about malfunctioning absence, attendance system, or HR Email. Maintain a professional tone when giving answers.",
         "tools": "[]"
     }
 ]
