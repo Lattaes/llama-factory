@@ -1,4 +1,19 @@
 {
+  "working_hours_train_val": {
+  "file_name": "working_hours_train_val.json",
+  "formatting": "sharegpt",
+  "columns": {
+      "messages": "conversations",
+      "system": "system",
+      "tools": "tools"
+    },
+  "tags": {
+      "role_tag": "from",
+      "content_tag": "value",
+      "user_tag": "human",
+      "assistant_tag": "assistant"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
